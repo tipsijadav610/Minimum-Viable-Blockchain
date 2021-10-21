@@ -2,6 +2,7 @@
 
 A simplified version of the technology underlying Bitcoin. You have nodes which validate transactions, perform proofs of work, and communicate in order to process transactions. This emulates the mining and transaction verification process of Bitcoin.
 
+The MVB implements the following:
 - Authentic transactions that are resistant to theft
 - Open competition amongst nodes to validate transactions
 - Detection of double spending
