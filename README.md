@@ -8,3 +8,5 @@ The MVB implements the following:
 - Detection of double spending
 - Use of proof-of-work to raise the cost of running attacks against the network
 - Detection of and reaction to forks in the chain
+- Coinbase transaction and locked time on transaction
+- One malicious user who changes ECDSA signature
